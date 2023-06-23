@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**higorsch/higorsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é higor luydy schorner 
 
-Here are some ideas to get you started:
+estou estudando Alura 
+Estou me desenvolvendo na linguagem javascript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  
+### Você entrar em contato comigo 📫
+  
+higor.schorner@escola.pr.gov.br  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@higosch
+
+!
+https://media.tenor.com/F00W5rJTnokAAAAC/chris-paul-not-funny.gif
